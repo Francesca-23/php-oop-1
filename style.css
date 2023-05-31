@@ -1,0 +1,15 @@
+ul li {
+    list-style-type: none;
+    width: calc(100% / 3 - 2rem);
+    margin: 2rem 1rem;
+    background-color: rgb(201, 162, 237);
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+.top10 {
+    color: blueviolet;
+    font-weight: bold;
+}
